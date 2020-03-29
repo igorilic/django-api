@@ -1,0 +1,1 @@
+web: gunicorn eurorank.wsgi --log-file -
