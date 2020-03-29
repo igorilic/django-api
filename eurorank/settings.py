@@ -26,7 +26,7 @@ SECRET_KEY = 'nb82=*a0%2!(48(ut7)p29qj3d#mys(08wv9^1^jyk$yp3wr$c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['eurorank.herokuapp.com']
+ALLOWED_HOSTS = ['https://eurorank.herokuapp.com']
 
 
 # Application definition
